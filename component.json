@@ -1,0 +1,13 @@
+{
+  "name": "fira-mono-regular",
+  "repo": "typefaces/fira-mono-regular",
+  "description": "The Fira Mono Regular typeface. ",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-mono-regular.eot",
+    "fonts/fira-mono-regular.ttf",
+    "fonts/fira-mono-regular.woff"
+  ]
+}
